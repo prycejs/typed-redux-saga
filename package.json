@@ -1,5 +1,5 @@
 {
-  "name": "typed-redux-saga",
+  "name": "@prycejs/typed-redux-saga",
   "version": "1.5.0",
   "description": "Redux-Saga effects with strong types.",
   "license": "MIT",
